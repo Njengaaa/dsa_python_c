@@ -1,3 +1,5 @@
+import random
+
 name1 = "john"
 num = 25
 balance = 159.258
@@ -18,6 +20,15 @@ flag = True
     
 
     
-for i in range(18):
-    if i == 17:
-        print(i)
+# for i in range(18):
+#     if i == 17:
+#         print(i)
+        
+        
+# list = random.sample(range(10), k=5)
+# print(list)
+# print(f"Start at index 2 {list[2:]}")
+# print(f"Stop at index 3 {list[:3]}")
+
+
+    
